@@ -3,6 +3,9 @@ from pprint import pprint
 import random
 import time
 
+### 1. Miscarile sunt random la fiecare pas
+### 2. Nu se tine cont de cea mai buna viitoare solutie
+
 ### VARIABILE
 actions = ["left", "right"]
 SIZE = 5
